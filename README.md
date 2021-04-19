@@ -6,14 +6,12 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -23,10 +21,14 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
+### Screenshot
+
+![screenshot](./screeshot.png)
+
 ### Links
 
-- Solution URL: [Solution](#)
-- Live Site URL: [Live Site](#)
+- Solution URL: [Solution](https://github.com/junaidshaikh-js/social-proof-section)
+- Live Site URL: [Live Site](https://junaidshaikh-js.github.io/social-proof-section/)
 
 ## My process
 
@@ -35,26 +37,14 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-
-
-### What I learned
-
 
 
 ### Continued development
 
-
-
-
-
-### Useful resources
-
+- Though CSS can help you to solve your problem, I am looking forward to learn SCSS and Bootstrap to use in further projects
 
 
 ## Author
 
 - Linkedin Profile - [Junaid Shaikh](https://www.linkedin.com/in/junaidshaikhjs/)
-
-## Acknowledgments
